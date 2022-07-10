@@ -1,4 +1,4 @@
-## Image in below is the log.html after executed `selenium.robot` and `playwright.robot`
+## Images in below are the log after executed `selenium.robot` and `playwright.robot`
 
 ### selenium.robot
 ![](selenium.png)
